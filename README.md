@@ -1,1 +1,1 @@
-# Perfil de gasto del consumidor mexicano
+# Perfil de gasto de los hogares mexicanos
