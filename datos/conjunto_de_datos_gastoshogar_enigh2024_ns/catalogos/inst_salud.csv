@@ -1,0 +1,13 @@
+inst_salud,descripcion
+"01","Médicos, laboratorios y hospitales particulares"
+"02","Servicios médicos del IMSS"
+"03","Servicios médicos del ISSSTE"
+"04","Servicios médicos de PEMEX"
+"05","Servicios médicos de la Marina"
+"06","Servicios médicos del Ejército"
+"07","Servicios médicos de la SSA"
+"09","Servicios médicos del DIF"
+"10","Servicios médicos de universidades públicas"
+"11","Otros servicios médicos: Cruz Roja, Cruz Verde, etcétera"
+"12","Servicios médicos provenientes del programa Prospera/Bienestar"
+"13","Provenientes de otro hogar"
